@@ -21,13 +21,13 @@ Interactive notebooks + examples can be downloaded by cloning!
 
 * [**Chapter 1: Background:**](http://nbviewer.ipython.org/github/wlamont/aerospace_propulsion/blob/master/Chapter01_background/Chapter01_background.ipynb)  Will focus on the necessary knowledge required for the subsequent chapters.  This material will be an abridged version of two courses: gas dynamics and combustion. 
 
-* [**Chapter 2: Air Breathing**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter1_Introduction/Chapter1_Introduction.ipynb)
+* [**Chapter 2: Air Breathing**]
 Will focus on the aviation side of aerospace propulsion and will strictly deal with gas turbines (jet engines).
     
-* [**Chapter 3: Rockets**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter2_MorePyMC/MorePyMC.ipynb)
+* [**Chapter 3: Rockets**]
 Will focus on the three main types of rockets: solid, liquid and hybrid.  Also detail work on the rocket nozzle, which generates most of the thrust, will be presented.
     
-* [**Chapter 4: Advanced Systems**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter3_MCMC/IntroMCMC.ipynb)
+* [**Chapter 4: Advanced Systems**]
 Will introduce concepts and systems that have not yet been commercialized.
   
     
@@ -90,7 +90,7 @@ Authors submit content or revisions using the GitHub interface.
 Contributions and Thanks
 -----
 
-The idea of this work came from Prof. Allen Downey's [Textbook Manifestor](http://greenteapress.com/manifesto.html) and his teaching philosophy that through programming you can learn anything.  To this end my goals in writing this textbook were to keep it short and clear, and to use Python programming examples to illustrate concepts.  I tried to adhere to PEP 8  -- Style Guide for Python Code.  For the students unfamiliar with Python, I would recommend Prof. Allen Downey's [Think Python] (http://greenteapress.com/thinkpython/thinkpython.html) to get started.
+The idea of this work came from Prof. Allen Downey's [Textbook Manifesto](http://greenteapress.com/manifesto.html) and his teaching philosophy that through programming you can learn anything.  To this end my goals in writing this textbook were to keep it short and clear, and to use Python programming examples to illustrate concepts.  I tried to adhere to PEP 8  -- Style Guide for Python Code.  For the students unfamiliar with Python, I would recommend Prof. Allen Downey's [Think Python] (http://greenteapress.com/thinkpython/thinkpython.html) to get started.
 
 Stylistic and the layout came from Cam Davidson-Pilson's [Probablistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers).  Much of this README.md came directly from that work.  
 
