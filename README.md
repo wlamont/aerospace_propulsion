@@ -21,7 +21,7 @@ Interactive notebooks + examples can be downloaded by cloning!
 
 * [**Chapter 1: Background:**](http://nbviewer.ipython.org/github/wlamont/aerospace_propulsion/blob/master/Chapter01_background/Chapter01_background.ipynb)  Will focus on the necessary knowledge required for the subsequent chapters.  This material will be an abridged version of two courses: gas dynamics and combustion. 
 
-* [**Chapter 2: Air Breathing**]
+* [**Chapter 2: Air Breathing**](http://nbviewer.ipython.org/github/wlamont/aerospace_propulsion/blob/master/Chapter02_air_breathing/Chapter02_air_breathing.ipynb) 
 Will focus on the aviation side of aerospace propulsion and will strictly deal with gas turbines (jet engines).
     
 * [**Chapter 3: Rockets**]
